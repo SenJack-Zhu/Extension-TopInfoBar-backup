@@ -2,6 +2,7 @@
 原项目遵循 [AGPL-3.0](https://github.com/SillyTavern/Extension-TopInfoBar/blob/main/LICENSE) 许可证。
 修改了顶部状态栏布局为垂直居中并压缩宽度
 # Chat Top Info Bar
+
 ## 修改说明
 
 对顶部状态栏样式进行了以下调整：
